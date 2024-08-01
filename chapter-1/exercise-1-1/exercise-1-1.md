@@ -1,6 +1,6 @@
 # Exercise 1-1
 
-Exercise from the book Think Like a Programmer.
+An exercise from the book Think Like a Programmer.
 
 ## Exercise
 
@@ -22,7 +22,7 @@ After a while it became harder to find numbers to be fitted with the initial str
 
 ### Notes
 
-Did solve the Sudoku but not in a systematic way. Basically just choose a random missing number in a region and checked if it was only one place in the region where the number would fit.
+Did solve the Sudoku, but not in a systematic way. Basically just choose a random missing number in a region and checked if it was only one place in the region where the number would fit. Repeating the process until all numbers being filled in.
 
 ### General Plan
 
